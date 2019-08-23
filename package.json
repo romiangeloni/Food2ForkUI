@@ -1,0 +1,23 @@
+{
+  "name": "food2forkui",
+  "version": "1.0.0",
+  "description": "### About Cypress To set up cypress execute: ```bash npm cypress install ``` Also you can read the following documentation: [Cypress Documentation](https://www.cypress.io/)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romiangeloni/Food2ForkUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romiangeloni/Food2ForkUI/issues"
+  },
+  "homepage": "https://github.com/romiangeloni/Food2ForkUI#readme"
+}
